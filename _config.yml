@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Spencer.Dunn-portfolio
+title: Cheese-portfolio
 email: Spencer.Dunn01@stcalirconnect.ca
 baseurl: "https://SpencerDunn.github.io" 
 url: "/Spencer-Dunn" 
