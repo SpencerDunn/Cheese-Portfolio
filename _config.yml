@@ -21,7 +21,7 @@
 title: Cheese-portfolio
 email: Spencer.Dunn01@stcalirconnect.ca
 baseurl: "https://SpencerDunn.github.io" 
-url: "/Spencer-Dunn" 
+url: "/Cheese-Portfolio" 
 sass:
 style: compact
 description: >- # this means to ignore newlines until "baseurl:"
